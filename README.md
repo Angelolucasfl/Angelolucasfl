@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Angelo. Seja bem vindo(a) ao meu perfil.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-lucas-7129b7268/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angelolfl?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelolucass/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/angelolfl?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
 
 <p> 🖥️ Sou apaixonado por desenvolver soluções criativas para problemas<br> complexos e aprender novas tecologias.<p>
 
